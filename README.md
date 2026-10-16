@@ -6,14 +6,38 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li>Ai 뉴비입니다</li><li>공부하는 중... </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:1220kyh@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:1220kyh@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
+
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Projects </h2>
+    <table>
+      <tr>
+        <th align="center">Sleepy Maze</th>
+        <th align="center">Arduino Shop</th>
+      </tr>
+      <tr>
+        <td align="center">
+          잠든 아이의 흩어진 <b>꿈조각</b>을 찾아<br>미로를 탈출하는 웹 게임<br><br>
+          <a href="https://pakuyama.github.io/sleepy-maze/">
+            <img src="https://img.shields.io/badge/Play-362ae5?style=for-the-badge&logo=githubpages&logoColor=white">
+          </a>
+        </td>
+        <td align="center">
+          아두이노 보드와 부품을<br>둘러보고 구매할 수 있는 쇼핑몰 사이트<br><br>
+          <a href="https://arduino-shop-roan.vercel.app/">
+            <img src="https://img.shields.io/badge/Visit-00878F?style=for-the-badge&logo=arduino&logoColor=white">
+          </a>
+        </td>
+      </tr>
+    </table>
+    </div>
+
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=pakuyama&bg_color=60,ffffff,271dbf&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=pakuyama&bg_color=60,ffffff,271dbf&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pakuyama&layout=compact&bg_color=60,ffffff,271dbf&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-    
