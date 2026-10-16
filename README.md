@@ -11,6 +11,7 @@
       <tr>
         <th align="center">Sleepy Maze</th>
         <th align="center">Arduino Shop</th>
+        <th align="center">Five Elements Saju</th>
       </tr>
       <tr>
         <td align="center">
@@ -23,6 +24,12 @@
           아두이노 보드와 부품을<br>둘러보고 구매할 수 있는 쇼핑몰 사이트<br><br>
           <a href="https://arduino-shop-roan.vercel.app/">
             <img src="https://img.shields.io/badge/Visit-00878F?style=for-the-badge&logo=arduino&logoColor=white">
+          </a>
+        </td>
+        <td align="center">
+          생년월일시를 입력하면<br><b>오행</b>으로 사주를 풀어주는 프로그램<br><br>
+          <a href="https://pakuyama.github.io/ohaeng-saju/">
+            <img src="https://img.shields.io/badge/Try-B8860B?style=for-the-badge&logoColor=white">
           </a>
         </td>
       </tr>
