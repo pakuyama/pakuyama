@@ -1,3 +1,4 @@
+<div align="center"><img src="./brick.svg" width="100%"></div>
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:362ae5&height=180&text=Hello&animation=&fontColor=3f3e41&fontSize=40" />
     </div>
@@ -68,3 +69,5 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pakuyama&layout=compact&bg_color=60,ffffff,271dbf&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+
+<div align="center"><img src="./brick.svg" width="100%"></div>
