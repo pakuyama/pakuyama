@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="40" viewBox="0 0 900 40">
+  <defs>
+    <pattern id="brick" width="60" height="40" patternUnits="userSpaceOnUse">
+      <rect width="60" height="40" fill="#d9d4cf"/>
+      <rect x="1" y="1" width="58" height="18" rx="2" fill="#b5523b"/>
+      <rect x="-29" y="21" width="58" height="18" rx="2" fill="#a3472f"/>
+      <rect x="31" y="21" width="58" height="18" rx="2" fill="#a3472f"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="40" fill="url(#brick)"/>
+</svg>
